@@ -45,7 +45,7 @@ const Invoice = () => {
       </div>
       <div className="invoicebill-bill"></div>
       <div className="invoicebill shadow-lg">
-        <h2 className="heading-logo">WebTech</h2>
+        <h2 className="heading-logo">MMTechSolution</h2>
         <hr className="horizontal-row"></hr>
         <div className="addreess d-flex">
           <div className="billto shadow-sm">
