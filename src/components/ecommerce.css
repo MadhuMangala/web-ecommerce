@@ -1,0 +1,206 @@
+.footer-section {
+  background-color: #0d2436;
+  color: #5a7184;
+}
+.first-footer {
+  text-align: center;
+}
+.footer-image {
+  width: 150px;
+  height: 80px;
+  text-align: center;
+  /* border: 2px solid white; */
+}
+.icon-section {
+  /* background-color: #5a7184; */
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  border-radius: 30px;
+  padding-top: 13px;
+  background-color: #152c3e;
+  /* border: 1px solid red; */
+}
+
+.hori {
+  /* border-bottom: 1px solid white; */
+  border: 1px solid #5a7184;
+}
+.copy-section {
+  text-align: center;
+}
+.navbarlogo {
+  width: 100px;
+  height: 40px;
+}
+.navitems {
+  color: white;
+  font-size: 20px;
+}
+.navitems:hover {
+  background-color: gray;
+  border-radius: 10px;
+}
+.banner-section {
+  /* width: 100vw;
+  height: 100vh; */
+}
+.products-heading {
+  color: #183b56;
+  font-weight: bold;
+  font-family: Roboto;
+}
+.products-card-one-heading {
+  color: aliceblue;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+.products-para {
+  color: aliceblue;
+  font-size: 20px;
+}
+.viewdetails {
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 20px;
+}
+.products-theory,
+.products-theory1 {
+  /* border: 1px solid red; */
+  background-size: cover;
+  border-radius: 10px;
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+  width: 100%;
+  height: 300px;
+}
+.products-theory1 {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+}
+.link-view-more {
+  color: #ff9f00;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+span {
+  font-weight: bold;
+  color: black;
+}
+.topheading {
+  color: #323f4b;
+  font-size: 25px;
+}
+.buynow {
+  background-color: transparent;
+  color: #323f4b;
+}
+.offers-section {
+  background-image: linear-gradient(to left, #dd5d97, #f49541);
+}
+.best-newyear {
+  color: #ad2167;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.best-newyear1 {
+  color: white;
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.firstone {
+  width: 30%;
+  height: 100%;
+  padding: 20px;
+  /* border: 1px solid green; */
+}
+.secondone {
+  width: 70%;
+  height: 100%;
+  padding: 20px;
+  /* border: 1px solid yellow; */
+}
+.trending-heading {
+  color: #183b56;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.fountain {
+  color: #959ead;
+  font-size: 25px;
+}
+.trending-first-heading {
+  font-size: 35px;
+  font-weight: bold;
+  color: #183b56;
+  margin: 10px 0px 20px 0px;
+}
+.trending-desc {
+  color: #959ead;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+#readmore {
+  color: #ff9f00;
+  font-weight: bold;
+  font-size: 20px;
+}
+.offer-products-one {
+  /* border: 1px solid green; */
+  width: 100%;
+  height: 150px;
+}
+.sub-one {
+  width: 45%;
+  height: auto;
+  /* border: 1px solid goldenrod; */
+  text-align: center;
+}
+.smartwatch {
+  border-radius: 10px;
+}
+.offer-products-two {
+  width: 100%;
+  height: 150px;
+  /* border: 1px solid greenyellow; */
+}
+#readmore {
+  color: #ff9f00;
+  font-weight: bold;
+  font-size: 20px;
+}
+.tvimages {
+  border-radius: 10px;
+}
+.contact-section {
+  background-color: #f5f7fa;
+}
+.contact-theory {
+  /* border: 1px solid red; */
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.letusjoin {
+  color: #183b56;
+}
+.contactus {
+  background-color: transparent;
+  color: #ff9f00;
+  font-weight: bold;
+  margin-top: 30px;
+  font-size: 20px;
+  border: 2px solid #ff9f00;
+}
+#anigim1 {
+  background-color: #e783b5;
+}
+#heading {
+  margin-left: 20px;
+  font-size: 25px;
+  color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+}
